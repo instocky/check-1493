@@ -1,0 +1,37 @@
+body {
+    width: 400px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 3px;
+}
+
+.found {
+    color: green;
+}
+
+.hidden {
+    color: orange;
+}
+
+.missing {
+    color: red;
+}
